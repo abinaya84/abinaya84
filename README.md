@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Abinaya
 - 👀 I’m interested in  web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,java
 - 💞️ I’m looking to collaborate on open source projects and innovative tech solutions
-- 📫 How to reach me :
+- 📫 How to reach me :www.linkedin.com/in/abinaya-m-256791327
+
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love solving puzzles and exploring new technologies
 
